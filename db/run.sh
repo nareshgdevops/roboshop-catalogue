@@ -1,1 +1,1 @@
-mongosh --host mongodb-dev.rdevopsb84.online <master-data.js
+mongosh --host mongodb-dev.nareshdevops1218.online <master-data.js
